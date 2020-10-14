@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/lge/d802" name="CyanogenMod/android_device_lge_d802" remote="github" revision="cm-11.0"/>
+
+    <!--Kernel-->
+    <project path="kernel/lge/msm8974" name="CyanogenMod/android_kernel_lge_msm8974" remote="github" revision="cm-11.0"/>
+
+    <!--Common g2-->
+    <project path="device/motorola/sdm632-common" name="CyanogenMod/android_device_lge_g2-common" remote="github" revision="cm-11.0"/>
+
+</manifest>
