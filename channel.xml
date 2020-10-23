@@ -5,7 +5,7 @@
     <project path="device/motorola/channel" name="LineageOS/android_device_motorola_channel-64" remote="github" revision="lineage-17.1"/>
 
     <!--Kernel-->
-    <project path="kernel/motorola/channel" name="LineageOS/android_kernel_motorola_sdm632" remote="github" revision="lineage-17.1"/>
+    <project path="kernel/motorola/sdm632" name="LineageOS/android_kernel_motorola_sdm632" remote="github" revision="lineage-17.1"/>
 
     <!--Common moto-->
     <project path="device/motorola/sdm632-common" name="LineageOS/android_device_motorola_sdm632-common" remote="github" revision="lineage-17.1"/>
