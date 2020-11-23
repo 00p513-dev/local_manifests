@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/teracube/bismuth" name="00p513-dev/device_teracube_bismuth" remote="github" revision="lineage-17.1"/>
+
+    <!--Kernel-->
+    <project path="kernel/teracube/bismuth" name="TheMalachite/kernel_teracube_bismuth" remote="github" revision="Q"/>
+
+    <!-- Vendor folders -->
+    <project path="vendor/teracube/bismuth" name="TheMalachite/vendor_teracube_bismuth" remote="github" revision="Q"/>
+
+</manifest>
