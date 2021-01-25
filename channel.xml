@@ -2,7 +2,7 @@
 
 <manifest>
     <!--Device Trees-->
-    <project path="device/motorola/channel" name="LineageOS/android_device_motorola_channel-64" remote="github" revision="lineage-17.1"/>
+    <project path="device/motorola/channel" name="LineageOS/android_device_motorola_channel-64" remote="github" revision="halium-10.0"/>
 
     <!--Kernel-->
     <project path="kernel/motorola/sdm632" name="LineageOS/android_kernel_motorola_sdm632" remote="github" revision="lineage-17.1"/>
