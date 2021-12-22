@@ -13,4 +13,7 @@
     <!-- Vendor folders -->
     <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-17.1"/>
 
+    <project path="system/qcom" name="LineageOS/android_system_qcom" remote="github" revision="lineage-17.1"/>
+    <project path="vendor/motorola" name="LineageOS/android_external_bson" remote="github" revision="lineage-17.1"/>
+
 </manifest>
