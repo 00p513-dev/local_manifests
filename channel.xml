@@ -11,6 +11,6 @@
     <project path="device/motorola/sdm632-common" name="LineageOS/android_device_motorola_sdm632-common" remote="github" revision="lineage-17.1"/>
 
     <!-- Vendor folders -->
-    <project path="vendor/motorola" name="00p513-dev/android_vendor_motorola" remote="github" revision="lineage-17.1"/>
+    <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="lineage-17.1"/>
 
 </manifest>
